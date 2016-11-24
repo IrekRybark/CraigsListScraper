@@ -1,0 +1,8 @@
+# pyCharm
+.idea/
+
+ipynb/
+data/
+
+*.bak
+*.pyc
