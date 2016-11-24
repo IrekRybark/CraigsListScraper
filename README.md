@@ -6,7 +6,7 @@ New postings are emailed to provided email account
 # Configuration
 The only command line parameter for the application is configuration file name.
 
-Tsxssshe configuration contais:
+The configuration contains:
 - list of Craigslist sites to be queried
 - car search parameters (like price, milage etc.)
 - path to output files with search results
